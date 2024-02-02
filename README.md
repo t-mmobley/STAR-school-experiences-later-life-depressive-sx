@@ -15,6 +15,6 @@ R code for "School racial composition, effect modification by having a caring ad
 
 06_descr_analysis v2.R generates Table 1 in manuscript.
 
-06_descr_analysis_grade_stratified v4.R generates grade-stratified descriptive Table 2 results.
+06b_descr_analysis_grade_stratified v4.R generates grade-stratified descriptive Table 2 results.
 
 07_results v3.R generates Figure 1 in the manuscript.
